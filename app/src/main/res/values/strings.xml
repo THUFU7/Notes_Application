@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes Application(MVVM)</string>
+    <string name="title">TITLE</string>
+    <string name="priority">1</string>
+    <string name="desc">DESCRIPTION</string>
+    <string name="save">SAVE</string>
+    <string name="prior">PRIORITY</string>
+</resources>

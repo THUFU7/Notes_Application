@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trans">#00000000</color>
+    <color name="primary">#FF000000</color>
+    <color name="secondary">#FFFFFFFF</color>
+    <color name="tertiary">#CEE5ED</color>
+    <color name="quad">#FFE400</color>
+    <color name="pent">#FFA600</color>
+    <color name="hex">#1B1B1B</color>
+    <color name="hepta">#FF6961</color>
+    <color name="octa">#F8C8DC</color>
+    <color name="nine">#A7C7E7</color>
+    <color name="ten">#C3B1E1</color>
+    <color name="eleven">#1F1C1A</color>
+    <color name="twelve">#118C4F</color>
+    <color name="thirt">#630436</color>
+    <color name="fort">#A020F0</color>
+    <color name="fift">#ff0000</color>
+</resources>
